@@ -35,5 +35,5 @@ async def on_message(message):
                     pass
 
 
-access_token = os.environ["NzQ4MjE2NDk0NTUwMjg2NDY4.X0aM6Q.tMoqebeGX2MlU41NDC3a3mfPuTU"]
+access_token = os.environ["NzQ4MjE2NDk0NTUwMjg2NDY4.X0aM6Q.ql-Bu8jTh9_NPtbedW7DlngCd5M"]
 client.run(access_token)
